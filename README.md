@@ -1,4 +1,6 @@
-Hey folks , this is list of repositories who have above 100 stars and are active (accepting pull requesting based on large merged pull requests ) .
+Hey folks , This is list of repositories who have above 100 stars and are active (accepting pull requesting based on large merged pull requests ) .
+
+
 
 | Name of Project(with url)  |Remarks   |  Tech Stack     |
 | :---        |    :----:   |          ---: |
