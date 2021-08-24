@@ -1,10 +1,12 @@
 Hey folks , This is list of repositories who have above 100 stars and are active (accepting pull requesting based on latest merged pull requests ) .
+<br>
+<br>
 
 
-
-| Name of Project(with url)  |Remarks   |  Tech Stack     |
+| Name of Project (with url)  |Remarks   |  Tech Stack     |
 | :---        |    :----:   |          ---: |
 | [Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)      | GSSOC       |  react nodejs bootstrap express reactjs expressjs mern mern-stack bootstrap-5   |
+| [https://github.com/jina-ai/jina](https://github.com/jina-ai/jina)    | JINA-AI   |   python nlp machine-learning  computer-vision deep-learning microservice cloud-native  |
 | [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)    | Microsoft       | python data-science machine-learning scikit-learn machine-learning-algorithms ml machinelearning machinelearning-python scikit-learn-python     |
 | [MIRNet-TFJS](https://github.com/Rishit-dagli/MIRNet-TFJS)    | Featured on TensorFlow.JS Show And Tell       |   nodejs javascript computer-vision deep-learning tensorflow machinelearning tfjs   |
 | [zx](https://github.com/google/zx/)    |   Google     |   nodejs javascript  |
