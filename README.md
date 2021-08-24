@@ -15,5 +15,6 @@ Hey folks , This is list of repositories who have above 100 stars and are active
 | [Water-Monitoring-System](https://github.com/vinitshahdeo/Water-Monitoring-System)    |  gssoc20 rgsoc  GitHub Star    | nodejs javascript api jquery iot arduino django    |
 | [handwritten.js](https://github.com/alias-rahil/handwritten.js)    |     hacktoberfest   |  javascript   |
 | [Chart.js](https://github.com/chartjs/Chart.js)    |      www.chartjs.org/  |   javascript chart html5 canvas graph hacktoberfest html5-charts  |
+| [VScode livepreview](https://github.com/microsoft/vscode-livepreview)    |      Microsoft  |   javascript Typescript nodejs CSS HTML  |
 
 If you like this , do add some pull request if you know some more repositories 😊💕
