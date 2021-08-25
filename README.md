@@ -1,7 +1,5 @@
+# Above 🌟100-Star Active Repositories
 Hey folks , This is list of repositories who have above 100 stars and are active (accepting pull requesting based on latest merged pull requests ) .
-<br>
-<br>
-
 
 | Name of Project (with url)  |Remarks   |  Tech Stack     |
 | :---        |    :----:   |          ---: |
@@ -20,12 +18,14 @@ Hey folks , This is list of repositories who have above 100 stars and are active
 | [VScode livepreview](https://github.com/microsoft/vscode-livepreview)    |      Microsoft  |   javascript Typescript nodejs CSS HTML  |
 
 <br>
-<br>
-# Informative Documentation Repositories  
+
+
+# Informative Documentation Repositories 📄  
+These are some repositories having great piece of information regarding different domains .
 
 | Name of Project   |Remarks   |  Tech Stack     |  
 | :---        |    :----:   |          ---: |
 | [Hacktoberfest Project Ideas]( https://github.com/praveenscience/Hacktoberfest-Project-Ideas) | Amazing Project Ideas based on various tech stacks , Hacktoberfest|Documentation / Tech|
 
 
-If you like this , do add some pull request if you know some more repositories 😊💕
+If you like this you can ⭐ it, do add some pull request or leave link in issues if you know some more great repositories 😊💕
