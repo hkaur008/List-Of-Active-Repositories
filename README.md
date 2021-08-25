@@ -21,4 +21,10 @@ Hey folks , This is list of repositories who have above 100 stars and are active
 
 <br>
 <br>
+Informative Documentation Repositories  
+
+| Name of Project   |Remarks   |  Tech Stack     |  
+| :---        |    :----:   |          ---: |
+| [Hacktoberfest Project Ideas]( https://github.com/praveenscience/Hacktoberfest-Project-Ideas) | Project Ideas , Hacktoberfest|Documentation / Tech|
+
 If you like this , do add some pull request if you know some more repositories 😊💕
