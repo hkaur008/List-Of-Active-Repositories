@@ -20,7 +20,7 @@ Hey folks , This is list of repositories who have above 100 stars and are active
 <br>
 
 
-# Informative Documentation Repositories 📄  
+# Informative/Documentation Repositories 📄  
 These are some repositories having great piece of information regarding different domains .
 
 | Name of Project   |Remarks   |  Tech Stack     |  
