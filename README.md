@@ -23,8 +23,8 @@ Hey folks , This is list of repositories who have above 100 stars and are active
 # Informative/Documentation Repositories 📄  
 These are some repositories having great piece of information regarding different domains .
 
-| Name of Project   |Remarks   |  Tech Stack     |  
-| :---        |    :----:   |          ---: |
+| Name of Project   |Remarks   |  
+| :---        |    ----:   |
 | [Hacktoberfest Project Ideas]( https://github.com/praveenscience/Hacktoberfest-Project-Ideas) | Amazing Project Ideas based on various tech stacks , Hacktoberfest|
 |[List Of Open-Source Internships Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)| List of all opensource programs |
 
