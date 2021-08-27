@@ -28,6 +28,7 @@ These are some repositories having great piece of information regarding differen
 | [Hacktoberfest Project Ideas]( https://github.com/praveenscience/Hacktoberfest-Project-Ideas) | Amazing Project Ideas based on various tech stacks , Hacktoberfest|
 |[List Of Open-Source Internships Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)| List of all opensource programs |
 |[Awesome Computer Science Opportunities](https://github.com/anu0012/awesome-computer-science-opportunities#fellowshipsscholarships)|List of Computer science opportunities , platforms and much more|
+|[One4All](https://github.com/Surajv311/one4All)|List of  opportunities, Student Amassador program, hackathons and much more|
 
 
 If you like this you can ⭐ it, do add some pull request or leave link in issues if you know some more great repositories 😊💕
