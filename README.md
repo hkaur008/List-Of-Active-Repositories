@@ -16,5 +16,7 @@ Hey folks , This is list of repositories who have above 100 stars and are active
 | [handwritten.js](https://github.com/alias-rahil/handwritten.js)    |     hacktoberfest   |  javascript   |
 | [Chart.js](https://github.com/chartjs/Chart.js)    |      www.chartjs.org/  |   javascript chart html5 canvas graph hacktoberfest html5-charts  |
 | [VScode livepreview](https://github.com/microsoft/vscode-livepreview)    |      Microsoft  |   javascript Typescript nodejs CSS HTML  |
+| [Scipy](https://github.com/scipy/scipy)                     |   Scipy      | python algorithms scientific-computing scipy closember  |     
+
 
 If you like this , do add some pull request if you know some more repositories 😊💕
