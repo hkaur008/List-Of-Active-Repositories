@@ -35,4 +35,4 @@ These are some repositories having great piece of information regarding differen
 
 
 If you like this you can ⭐ it, do add some pull request or leave link in issues if you know some more great repositories 😊💕  
-I will be upadting this every weeekend (Saturday) .
+I will be upadting this every weekend (Saturday) .
